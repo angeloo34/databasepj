@@ -1,0 +1,26 @@
+HTML {
+    background-color: cadetblue;
+}
+
+h1 {
+    position: center;
+}
+
+textarea {
+    vertical-align: top;
+    height: 150px;
+    width: 250px;
+    resize: none;
+    display: inline-block;
+    font-size: large;
+}
+
+.entry{
+    display: none;
+}
+
+.prevbtn {
+position: relative;
+left: 0px;
+top: 45px;
+}
